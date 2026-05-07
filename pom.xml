@@ -81,7 +81,13 @@
                     </suiteXmlFiles>
                     <systemPropertyVariables>
                         <env>${env}</env>
+                        <browser.name>${browser.name}</browser.name>
+                        <execution.headless>${execution.headless}</execution.headless>
                     </systemPropertyVariables>
+                    <forkCount>1</forkCount>
+                    <reuseForks>true</reuseForks>
+                    <useManifestOnlyJar>false</useManifestOnlyJar>
+                    <useSystemClassLoader>true</useSystemClassLoader>
                 </configuration>
             </plugin>
         </plugins>

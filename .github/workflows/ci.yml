@@ -54,7 +54,9 @@ jobs:
           mvn test \
             -Denv=${{ env.CI_ENV }} \
             -Dexecution.headless=true \
-            -Dbrowser.name=chromium
+            -Dbrowser.name=chromium \
+            -Dsurefire.useFile=false \
+            -Dmaven.test.failure.ignore=false
         env:
           CI: true
 

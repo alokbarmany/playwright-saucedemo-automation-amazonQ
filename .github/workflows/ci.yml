@@ -21,10 +21,10 @@ env:
 jobs:
 
   # ─────────────────────────────────────────
-  # JOB 1: Build — compile and validate
+  # JOB: Build, install browsers and test
   # ─────────────────────────────────────────
-  build:
-    name: Build
+  test:
+    name: Build & Test
     runs-on: ubuntu-latest
 
     steps:
@@ -41,40 +41,6 @@ jobs:
       - name: Compile source and tests
         run: mvn compile test-compile -q
 
-      - name: Cache Maven packages
-        uses: actions/cache@v4
-        with:
-          path: ~/.m2/repository
-          key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
-          restore-keys: ${{ runner.os }}-maven-
-
-  # ─────────────────────────────────────────
-  # JOB 2: Test — run Playwright tests
-  # CI overrides: headless=true, env=dev
-  # ─────────────────────────────────────────
-  test:
-    name: Test
-    runs-on: ubuntu-latest
-    needs: build
-
-    steps:
-      - name: Checkout source
-        uses: actions/checkout@v4
-
-      - name: Set up JDK ${{ env.JAVA_VERSION }}
-        uses: actions/setup-java@v4
-        with:
-          java-version: ${{ env.JAVA_VERSION }}
-          distribution: temurin
-          cache: maven
-
-      - name: Restore Maven cache
-        uses: actions/cache@v4
-        with:
-          path: ~/.m2/repository
-          key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
-          restore-keys: ${{ runner.os }}-maven-
-
       - name: Install Playwright browsers
         run: |
           sudo apt-get install -y libasound2t64 libgstreamer1.0-0 libgstreamer-plugins-base1.0-0 \
@@ -85,7 +51,7 @@ jobs:
 
       - name: Run tests
         run: |
-          mvn test-compile test \
+          mvn test \
             -Denv=${{ env.CI_ENV }} \
             -Dexecution.headless=true \
             -Dbrowser.name=chromium

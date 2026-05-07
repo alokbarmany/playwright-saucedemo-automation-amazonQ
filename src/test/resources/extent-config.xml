@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <theme>STANDARD</theme>
+        <encoding>UTF-8</encoding>
+        <documentTitle>SauceDemo Automation Report</documentTitle>
+        <reportName>Playwright + Cucumber + TestNG</reportName>
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+    </configuration>
+</extentreports>

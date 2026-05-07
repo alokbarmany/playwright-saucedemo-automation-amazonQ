@@ -1,0 +1,22 @@
+[
+    {
+        "username": "standard_user",
+        "password": "secret_sauce",
+        "address": {
+            "street": "3 Marshall St",
+            "city": "Irvington",
+            "state": "NJ",
+            "zip": "07111"
+        }
+    },
+    {
+        "username": "visual_user",
+        "password": "secret_sauce",
+        "address": {
+            "street": "123 Main St",
+            "city": "Anytown",
+            "state": "CA",
+            "zip": "12345"
+        }
+    }
+]

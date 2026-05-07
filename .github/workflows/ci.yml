@@ -85,7 +85,7 @@ jobs:
 
       - name: Run tests
         run: |
-          mvn test \
+          mvn test-compile test \
             -Denv=${{ env.CI_ENV }} \
             -Dexecution.headless=true \
             -Dbrowser.name=chromium

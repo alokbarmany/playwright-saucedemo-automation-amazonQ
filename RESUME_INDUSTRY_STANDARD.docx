@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+  <w:body>
+    <w:p><w:pPr><w:pStyle w:val="Heading1"/></w:pPr><w:r><w:t>[NAME HERE]</w:t></w:r></w:p>
+    <w:p><w:r><w:t>[PHONE] | [EMAIL] | [LINKEDIN PROFILE] | [GITHUB PROFILE]</w:t></w:r></w:p>
+    <w:p><w:r><w:t>[CITY, STATE]</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:spacing w:line="240"/></w:pPr></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading2"/></w:pPr><w:r><w:t>PROFESSIONAL SUMMARY</w:t></w:r></w:p>
+    <w:p><w:r><w:t>Results-driven Senior QA Automation Engineer with 12+ years of progressive experience architecting and delivering enterprise-grade test automation solutions across Financial Services, Healthcare, and Insurance sectors. Proven expertise in designing scalable automation frameworks, implementing CI/CD pipelines, and optimizing QA processes to accelerate release velocity while maintaining zero-defect quality standards. Track record of leading cross-functional teams and driving digital transformation initiatives in highly regulated environments.</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:spacing w:line="240"/></w:pPr></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading2"/></w:pPr><w:r><w:t>CORE COMPETENCIES</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:t>Test Automation &amp; Frameworks</w:t></w:r></w:p>
+    <w:p><w:r><w:t>Selenium WebDriver | Playwright | Cypress | Cucumber (BDD/TDD/ATDD) | TestNG | JUnit | Page Object Model (POM) | Data-Driven Testing (DDT) | Hybrid Frameworks</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:t>API &amp; Services Testing</w:t></w:r></w:p>
+    <w:p><w:r><w:t>REST API | SOAP | GraphQL | RestAssured | SoapUI | Postman | Karate DSL | APIGEE</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:t>Programming Languages &amp; Scripting</w:t></w:r></w:p>
+    <w:p><w:r><w:t>Java | JavaScript | TypeScript | Python | Groovy | C# | SQL | Gherkin | JSON | XML | HTML</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:t>CI/CD &amp; DevOps Infrastructure</w:t></w:r></w:p>
+    <w:p><w:r><w:t>Jenkins | GitHub Actions | GitLab CI | Azure DevOps Pipelines | CircleCI | UCD | Harness | ArgoCD | ServiceNow</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:t>Performance &amp; Security Testing</w:t></w:r></w:p>
+    <w:p><w:r><w:t>JMeter | Gatling | k6 | BlazeMeter | OWASP ZAP | CheckMarx | Dynatrace | Black Duck</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:t>Cloud &amp; Containerization</w:t></w:r></w:p>
+    <w:p><w:r><w:t>AWS (EC2, S3, Lambda) | Microsoft Azure | Docker | Kubernetes | Cloud Foundry</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:t>Databases &amp; Data Management</w:t></w:r></w:p>
+    <w:p><w:r><w:t>Oracle DB | SQL Server | MySQL | PostgreSQL | MongoDB | Liquibase | ETL/SSIS</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:t>Application Performance &amp; Monitoring</w:t></w:r></w:p>
+    <w:p><w:r><w:t>Splunk | AppDynamics | Dynatrace | New Relic | BigPanda | Datadog</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:t>Agile &amp; Collaboration Tools</w:t></w:r></w:p>
+    <w:p><w:r><w:t>Jira | Confluence | Azure DevOps Boards | HP ALM/QC | Rally | Slack | MS Teams | Git/GitHub/GitLab</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:t>AI-Assisted Development</w:t></w:r></w:p>
+    <w:p><w:r><w:t>GitHub Copilot | Amazon Q | ChatGPT | Gemini Code Assist | Claude</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:spacing w:line="240"/></w:pPr></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading2"/></w:pPr><w:r><w:t>PROFESSIONAL EXPERIENCE</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:b/><w:t>Wells Fargo — New York, NY</w:t></w:r></w:p>
+    <w:p><w:r><w:t>Senior Automation Engineer | January 2023 – December 2025</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Architected enterprise-grade multi-layered automation frameworks using Cucumber (BDD), QAFBDD, Java, Selenium, Playwright, and TestNG with Gradle, enabling parallel execution and reducing regression test cycle time by 40%</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Engineered comprehensive backend validation pipelines using SQL and Postman across distributed microservices, ensuring data consistency and business logic accuracy in payment processing workflows</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Executed parallel and cross-browser test suites via Jenkins and Vulcan across multiple environments, improving defect detection rate and reducing time-to-production by 35%</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Developed full-stack components using C#, .NET MVC, and Entity Framework for Web, Console, and Windows Service applications; integrated test automation with deployment pipelines</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Managed ServiceNow Change Requests for production deployments; optimized and maintained AutoSys jobs for recurring batch processing and reconciliation workflows</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Investigated production defects leveraging AppDynamics, Splunk, and BigPanda monitoring tools; maintained robust CI/CD pipelines via GitHub Actions, Jenkins, UCD, and Harness</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Mentored junior QA engineers on automation best practices, framework design patterns, and continuous integration methodologies</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:spacing w:line="240"/></w:pPr></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:b/><w:t>FISERV — Berkeley Heights, NJ</w:t></w:r></w:p>
+    <w:p><w:r><w:t>Quality Assurance Engineer | January 2022 – January 2023</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Created and maintained comprehensive test plans, test suites, and test cases aligned to functional specifications, user stories, and regulatory requirements for Payments &amp; Core Banking modernization initiative</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Performed end-to-end scenario testing for ACH processing, funds transfer, settlement, and account management workflows, validating complex business rules and reconciliation logic</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Executed functional and regression testing within Agile Scrum environment; collaborated with development and product teams to identify and document defects</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Developed SQL-based backend validation scripts to ensure data integrity across payment transaction flows</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:spacing w:line="240"/></w:pPr></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:b/><w:t>Wells Fargo — New York, NY</w:t></w:r></w:p>
+    <w:p><w:r><w:t>Senior Automation Engineer | May 2021 – December 2021</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Developed enterprise automation framework utilizing Cucumber, Java, Selenium WebDriver, TestNG, Gradle, Eclipse IDE, and GitHub version control</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Executed parallel and cross-browser automation test scripts through Jenkins and Vulcan infrastructure; performed backend validation using SQL queries and Postman</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Implemented continuous integration practices to streamline test execution in development and staging environments</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:spacing w:line="240"/></w:pPr></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:b/><w:t>Vanguard — Malvern, PA</w:t></w:r></w:p>
+    <w:p><w:r><w:t>QA Automation Engineer | October 2019 – December 2020</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Developed comprehensive test scripts using Java, Selenium WebDriver, JUnit, Maven, and SVN for Mutual Funds and ETFs transactional web and Windows-based applications</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Enhanced legacy Jagacy Automation Framework for Mainframe/3270 terminal testing; designed and implemented RPA Blue Prism Automation Framework for web application workflows</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Created, prioritized, and maintained test cases and test data for both manual and automation testing across complex financial workflows; achieved 85% automation coverage</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Performed cross-browser compatibility testing and baseline performance testing</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:spacing w:line="240"/></w:pPr></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:b/><w:t>Bank of America — Charlotte, NC</w:t></w:r></w:p>
+    <w:p><w:r><w:t>QA Automation Engineer | May 2019 – September 2019</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Developed Cucumber BDD automation test scripts using Java, Selenium WebDriver, JUnit, Maven, and Perforce version control within SOA architecture</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Performed comprehensive SOAP services testing using SoapUI; validated backend systems and API integrations</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Executed Functional, Sanity, Regression, and Database testing; managed test cases, defects, and test execution reports using HP ALM/QC and Rally</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:spacing w:line="240"/></w:pPr></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:b/><w:t>Homesite Insurance — Boston, MA</w:t></w:r></w:p>
+    <w:p><w:r><w:t>QA Automation Engineer | April 2018 – May 2019</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Built comprehensive Hybrid Automation Framework from scratch utilizing Java, Selenium WebDriver, TestNG, Maven, Data-Driven Testing (DDT), and Page Object Model (POM) with Git source control</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Performed REST API testing using Postman and RestAssured; conducted backend SQL validation and maintained defect tracking via Quality Center</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Implemented framework best practices including logging (Log4j), reporting, and cross-browser testing capabilities</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Achieved 80%+ test automation coverage for critical business processes</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:spacing w:line="240"/></w:pPr></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:b/><w:t>SunTrust Bank — Atlanta, GA</w:t></w:r></w:p>
+    <w:p><w:r><w:t>QA Automation Engineer | May 2016 – April 2018</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Developed BDD framework using Cucumber, Gherkin, Selenium WebDriver, JUnit, and Java with Git/GitHub source control and CI/CD integration</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Performed Functional, Regression, and UAT testing across banking applications; validated data integrity using advanced SQL queries</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Managed test cases, test execution, and defect tracking in Quality Center; collaborated within Agile Scrum teams</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:spacing w:line="240"/></w:pPr></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:b/><w:t>OSF HealthCare — Peoria, IL</w:t></w:r></w:p>
+    <w:p><w:r><w:t>QA Automation Engineer | January 2014 – May 2016</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Developed automation scripts for Functional and Regression testing using Selenium WebDriver, TestNG, Java, Maven, and Log4j logging framework</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Tested SOA-based healthcare applications using SoapUI for SOAP and REST API validation; ensured compliance with HIPAA regulations</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Managed all QA phases including test planning, execution, and defect management using Jira; participated in UAT and production deployment activities</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:spacing w:line="240"/></w:pPr></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading2"/></w:pPr><w:r><w:t>EDUCATION &amp; CERTIFICATIONS</w:t></w:r></w:p>
+    <w:p><w:r><w:t>Microsoft Azure Fundamentals — AZ-900 Certification</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:spacing w:line="240"/></w:pPr></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading2"/></w:pPr><w:r><w:t>ADDITIONAL INFORMATION</w:t></w:r></w:p>
+    <w:p><w:r><w:t>GitHub Profile: [Link to relevant automation repositories demonstrating framework expertise]</w:t></w:r></w:p>
+    
+    <w:p><w:pPr><w:pStyle w:val="Heading3"/></w:pPr><w:r><w:t>Key Achievements:</w:t></w:r></w:p>
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Reduced regression testing time by 40% through optimized parallel execution and framework automation</w:t></w:r></w:p>
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Improved production defect detection rate by 35% via comprehensive test coverage</w:t></w:r></w:p>
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Successfully designed and maintained automation frameworks scaling across 500+ test cases</w:t></w:r></w:p>
+    <w:p><w:pPr><w:ind w:left="720"/></w:pPr><w:r><w:t>• Drove zero-defect releases in regulated financial environments through rigorous testing protocols</w:t></w:r></w:p>
+  </w:body>
+</w:document>

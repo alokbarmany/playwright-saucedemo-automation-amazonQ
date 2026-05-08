@@ -21,7 +21,7 @@ import java.util.Properties;
                 "junit:target/cucumber-reports/cucumber.xml",
                 "rerun:target/cucumber-reports/rerun.txt",
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
-        }, tags = "regression", dryRun = false, monochrome = true
+        }, tags = "@regression", dryRun = false, monochrome = true
 )
 public class TestRunner extends AbstractTestNGCucumberTests {
 
@@ -31,7 +31,7 @@ public class TestRunner extends AbstractTestNGCucumberTests {
      * rowIndex is stored in PlaywrightManager ThreadLocal before each scenario run.
      */
     @Override
-    @DataProvider(parallel = false)
+    @DataProvider(parallel = true)
     public Object[][] scenarios() {
         Object[][] originalScenarios = super.scenarios();
         List<Object[]> expandedScenarios = new ArrayList<>();

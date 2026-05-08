@@ -1,8 +1,4 @@
-target/
-.idea/
-*.iml
-.classpath
-.project
-.settings/
+com/aventstack/extentreports/service/ExtentService.java
 io/
-com/
+target/
+
